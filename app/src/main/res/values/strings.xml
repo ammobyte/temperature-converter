@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+
+    <string name="hint">Enter temperature in °F:</string>
+    <string name="submit">Submit</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_temp">Temperature Converter</string>
+    <string name="yourTemp">The temperature you entered is:</string>
+    <string name="yourCelc">or, in Celsius:</string>
+    <string name="fah">°F</string>
+    <string name="cel">°C</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
